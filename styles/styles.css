@@ -56,33 +56,40 @@ margin-top: 16px;
 font-size: 48px;
 font-weight: 700;
 }
-.background-img{
+.over-all{
+    display: flex;
+    justify-content: space-around;
+}
+.midnight-party{
     background-image: url('../resources/Vectorrr.png');
-    background-repeat: no-repeat;
-    margin:50px 140px;
+    background-color: rgba(255, 0, 0, 0.05);
+    margin:100px 140px;
     width: 1320px;
     height: 600px;
-}
+} 
+  
 #unique{
-    color: #FFF;
 font-size: 64px;
 font-weight: 900;
-width: 642px;
-padding:126px 200px;
+color: #FFF;
 }
 .small{
-color: rgba(255, 255, 255, 0.80);
 font-size: 18px;
- padding:0px 100px; 
-width: 697px;
-height:60px;
+text-align: left;
+color: white;
 
+}
+.pdt{
+        margin:100px 140px;
+        background-color: rgba(255, 0, 0, 0.05);
+  
 }
 .btn{
     border: none;
     background-color: transparent;
-    color:#FFF;
-    padding: 0px 90px;
+    color: #FFF;
+     
+   
 }
 .span{
     color:red;
