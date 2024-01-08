@@ -118,15 +118,39 @@ font-size: 48px;
 font-weight: 900;
 text-transform: capitalize;
 }
- .dolor{
+ .Dolor{
     color: rgba(7, 2, 17, 0.60);
-    font-size: small;
-    font-style: normal;
+    font-size: 20px;
+    text-align: left;
   
 }
-.images{
-    margin:50px 140px;
+.gift{
+    font-size: 24px;
+     font-weight: 500;
+     padding-bottom: 0px;
+
 }
+.aeesome{
+    font-size: 48px;
+    font-weight: 900;
+    padding-top: 16px;
+}
+.folder{
+    margin-top: 10px;
+}
+.img-four{
+    position:static;
+
+}
+.img-one{
+    position: absolute;
+}
+.img-three{
+    float: right;
+    position:static;
+}
+
+
 .best{
     margin:50px 140px;
 }
@@ -177,4 +201,38 @@ text-transform: capitalize;
     background: rgba(95, 31, 31, 0.05);
 
    }
-    
+    .pro-one , .pro-two{
+        text-align: left;
+    }
+    .all-portion{
+        display:flex;
+        justify-content: space-between;
+        margin:100px 140px;
+        background-color: rgba(255, 0, 0, 0.05);
+  
+    }
+    .circle{
+        border-radius: 463px;
+        border: 15px solid #F00;
+        padding: 17px;
+    }
+    #red{
+        color: #F00;
+        font-size: 72px;
+        font-weight: 900;
+    }
+    .funtion{
+        color:#070211;
+        text-align: center;
+        font-size: 24px;
+        line-height: normal;
+    }
+    .sale{
+        font-size: 72px;
+        font-weight: 900;
+        text-align: center;
+    }
+    .holiday{
+        background-color: rgba(255, 0, 0, 0.05);
+        margin:100px 140px;
+    }
