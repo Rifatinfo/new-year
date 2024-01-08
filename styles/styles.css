@@ -1,14 +1,17 @@
 body{
     font-family: 'Merriweather', serif;
 }
+.top-head{
+    background-color: rgba(255, 0, 0, 0.05);
+    margin:100px 140px;
+}
 .header-main-container{
     background-image: url('../resources/Banner Image.png');
     background-repeat: no-repeat;
-    margin:50px 140px;
     width: 1320px;
     height: 600px;
     border-radius: 16px;
-   
+    margin: 0px 140px;
    
 }
 .header-main-container{
@@ -25,7 +28,10 @@ margin-top: 10px;
 font-size: 72px;
 font-weight: 900;
 }
- 
+ .seconder{
+    background-color: rgba(255, 0, 0, 0.05);
+    margin:100px 140px;
+ }
 .second-section{
     display:block;
     
